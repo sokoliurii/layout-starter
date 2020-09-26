@@ -3,6 +3,6 @@
         "node_modules/**/*"
     ],
     "presets": [
-        "es2015",
-    ]
+        "@babel/preset-env"
+    ],
 }
