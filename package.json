@@ -39,7 +39,7 @@
 		"gulp-watch": "^4.3.9",
 		"gulp.spritesmith": "^6.11.0",
 		"natives": "^1.1.6",
-		"node-notifier": "^5.4.3",
+		"node-notifier": "^8.0.1",
 		"postcss": "^6.0.1",
 		"require-dir": "^0.3.0",
 		"stylefmt": "^6.0.0",
